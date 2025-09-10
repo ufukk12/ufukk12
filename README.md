@@ -16,10 +16,10 @@
 ## 📊 İstatistiklerim
 
 ### 💡 LeetCode
-![LeetCode Stats](https://leetcode.com/u/uufuk_1/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/uufuk_1?theme=dark&font=Nunito&ext=contest)
 
 ### 🛡️ TryHackMe
-![TryHackMe Badge](https://tryhackme.com/p/uufuk12)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/uufuk12.png)
 
 ---
 
