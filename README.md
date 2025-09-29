@@ -6,20 +6,15 @@
 
 ---
 
-## 🚀 Kodlama & Siber Güvenlik Yolculuğum
+## 🚀 Kodlama & Algoritma Yolculuğum
 - 🔥 Aktif olarak **Java** , veri yapıları/algoritmalar ve uygulama geliştirme üzerine çalışıyorum.  
 - 🧩 Algoritmik düşünceyi güçlendirmek için **LeetCode** çözümleri yapıyorum.  
-- 🛡️ Aynı zamanda **siber güvenlik** meraklısıyım ve TryHackMe üzerinde lab’ler çözüyorum.  
+ 
+
 
 ---
 
-## 📊 İstatistiklerim
-
-### 💡 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/uufuk_1?theme=dark&font=Nunito&ext=contest)
-
-### 🛡️ TryHackMe
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/uufuk12.png)
+## 
 
 ---
 
@@ -27,7 +22,7 @@
 - Derinlemesine **Java geliştirme**  
 - **Veritabanı (MySQL)** ve backend mimarileri  
 - Problem çözme kabiliyetimi artırmak için **algoritmalar**  
-- **Siber güvenlik temelleri**  
+ 
 
 ---
 
